@@ -46,7 +46,7 @@ guest_list = [
 #   "PRIMASTA",
 #   "QONITA",
 #   "RAHMAT",
-#   "RIFKI RAHMA SAFITRI",
+  "RIFKI RAHMA SAFITRI",
 #   "RIYAN",
 #   "SAMSUL",
 #   "SYAHRUL",
