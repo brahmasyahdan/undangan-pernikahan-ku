@@ -53,11 +53,14 @@ guest_list = [
 #   "UMMAH",
 #   "VIKRUL",
 #   "VINGKI",
-#   "ZAKI"
-    "ILMI",
-    "ARIEF",
-    "MAS AMIR",
-    "MAS TONI"
+#   "ZAKI",
+    # "ILMI",
+    # "ARIEF",
+    # "MAS AMIR",
+    # "MAS TONI",
+    "Jimmy",
+    "Yogi",
+    "Dani"
 ]
 
 def create_filename(name):
